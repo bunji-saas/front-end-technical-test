@@ -15,6 +15,7 @@ Feel free to use any necessary front-end library you deem necessary.
 - [] As a user, I can view page on a small screen (see picutre)
 - [] As a user, I can see the total number of real esate agents.
 - [] As a user, I can navigate to next and previous pages if it exists
+- [] As a user, I create new real estate agents and add them to the list
 - [] As a user, i want results to be refreshed every 30 seconds
 
 Bonus
