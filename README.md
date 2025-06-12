@@ -19,12 +19,12 @@ Here are the instructions in order to get you started with the boilerplate app (
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-org/reqres-user-manager.git
-cd reqres-user-manager
+git clone https://github.com/bunji-saas/front-end-technical-test.git
+cd front-end-technical-test.git
 ```
 
-
 2. **Install dependencies**
+
 ```bash
 npm install
 # or
@@ -32,9 +32,11 @@ yarn install
 ```
 
 3. **Start development server**
+
 ```bash
 npm run dev
 # or
 yarn dev
 ```
+
 The app will be available at http://localhost:5173
