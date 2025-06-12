@@ -28,6 +28,8 @@ Bonus
 - [] Good use of Typescript
 - [] Component architecture
 
+# Backend API Doc
+
 ## Authentication
 
 All requests must include the following header:
@@ -39,8 +41,6 @@ x-api-token: your-secret-api-token
 Replace `your-secret-api-token` with your actual API token.
 
 ---
-
-# Backend API Doc
 
 ## Endpoints
 
