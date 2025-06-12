@@ -11,23 +11,23 @@ Feel free to use any necessary front-end library you deem necessary.
 
 ## Accepetance Criteria
 
-- [] As a user, I can list the real estate agents in a page (see picture). The agents a are shown in cards with an avatar, firstname and lastname, email and formated creation date
-- [] As a user, I can view page on a small screen (see picutre)
-- [] As a user, I can see the total number of real esate agents.
-- [] As a user, I can navigate to next and previous pages if it exists
-- [] As a user, I create new real estate agents and add them to the list
-- [] As a user, i want results to be refreshed every 30 seconds
+- [ ] As a user, I can list the real estate agents in a page (see picture). The agents a are shown in cards with an avatar, firstname and lastname, email and formated creation date
+- [ ] As a user, I can view page on a small screen (see picutre)
+- [ ] As a user, I can see the total number of real esate agents.
+- [ ] As a user, I can navigate to next and previous pages if it exists
+- [ ] As a user, I create new real estate agents and add them to the list
+- [ ] As a user, i want results to be refreshed every 30 seconds
 
 Bonus
 
-- [] As a user, I can access direclty pages of results using query params
+- [ ] As a user, I can access direclty pages of results using query params
 
 ## Evaluation Criteria
 
-- [] Tasks completed
-- [] Api handling
-- [] Good use of Typescript
-- [] Component architecture
+- [ ] Tasks completed
+- [ ] Api handling
+- [ ] Good use of Typescript
+- [ ] Component architecture
 
 # Backend API Doc
 
